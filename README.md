@@ -7,7 +7,7 @@ It is made up of HTML, CSS, & JS.
 
 ## Take a Look
 
- - [Visit -- Digital_Clock] (https://github.com/BadshahYadav/Digital_Clock)
+ - [Visit -- Digital_Clock] (https://badshahyadav.github.io/Digital_Clock/)
  
 
 ## Screenshots
