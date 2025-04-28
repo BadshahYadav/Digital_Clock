@@ -1,9 +1,7 @@
 
 #  Digital_Clock
 
-Biscally, It is amazing Digital_Clock which gonna blow your mind. It's super cool and it's UI is amazing.
-
-It is made up of HTML, CSS, & JS.
+"This project is a visually engaging and interactive digital clock designed to provide a seamless user experience. Built using HTML, CSS, and JavaScript, it features a sleek and modern user interface that combines both functionality and aesthetics. The clock's design and smooth animations make it a standout piece, offering a unique digital timekeeping experience that is both innovative and user-friendly."
 
 ## Take a Look
 
